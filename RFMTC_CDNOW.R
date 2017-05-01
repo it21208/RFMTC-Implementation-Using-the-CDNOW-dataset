@@ -1,3 +1,4 @@
+# Author = Alexandros Ioannidis
 library("Rcpp",character.only=TRUE)
 library("optimization",character.only=TRUE)
 library("optimx",character.only=TRUE)
